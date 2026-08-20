@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Placeholder crescent mark; swap for the final brand mark before release. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,30 C50,30 39,41 39,55 C39,69 50,80 64,80 C69,80 74,78.5 78,75.8 C72.5,79.6 65.9,82 58.5,82 C40,82 25,67 25,48.5 C25,30 40,15 58.5,15 C65.9,15 72.5,17.4 78,21.2 C74,18.5 69,17 64,17 C64,21.3 64,25.7 64,30 Z" />
+</vector>

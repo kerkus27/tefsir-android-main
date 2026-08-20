@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Sensitive data (auth session) lives in EncryptedSharedPreferences and is
+   excluded from backup — a restored backup on a new device must not silently
+   carry over another device's session.
+-->
+<full-backup-content>
+    <exclude domain="sharedpref" path="." />
+</full-backup-content>

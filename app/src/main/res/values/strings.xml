@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tefsir</string>
+
+    <string name="tab_home">Ana Sayfa</string>
+    <string name="tab_prayer_times">Vakitler</string>
+    <string name="tab_quran">Kur\'an</string>
+    <string name="tab_dhikr">Zikir</string>
+    <string name="tab_more">Diğer</string>
+</resources>
