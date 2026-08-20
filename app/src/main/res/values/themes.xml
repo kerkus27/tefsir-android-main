@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Compose owns the real theming (see core/designsystem/Theme.kt); this
+         base style only covers the window background before Compose attaches
+         and the launch/splash frame. -->
+    <style name="Theme.Tefsir" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
