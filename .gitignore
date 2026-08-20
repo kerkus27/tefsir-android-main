@@ -1,0 +1,21 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+*.hprof
+.navigation/
+/app/build
+/app/release
+/app/debug
+*.keystore
+*.jks
+!debug.keystore
+
+# Secrets — never commit real values (mirrors iOS Secrets.xcconfig pattern)
+secrets.properties
